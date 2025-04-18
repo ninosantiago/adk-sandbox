@@ -1,0 +1,6 @@
+pip
+google-adk
+requests
+flask
+pandas
+numpy

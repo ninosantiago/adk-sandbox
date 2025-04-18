@@ -1,0 +1,19 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "ms-python.python",
+                "GitHub.copilot",
+                "saoudrizwan.claude-dev"
+            ]
+        }
+    },
+    "forwardPorts": [
+        3000
+    ],
+    // "postCreateCommand": "pip install -r requirements.txt"
+}
